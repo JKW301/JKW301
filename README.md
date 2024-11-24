@@ -4,16 +4,17 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jkw301&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img height="150" src="https://media1.tenor.com/m/uqz_oXiz8usAAAAC/pedro-pascal.gif"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jkw301&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/uqz_oXiz8usAAAAC/pedro-pascal.gif"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -30,6 +31,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
 </div>
+<br><br>
+<h2 align="left">Recent Activity </h2>
 
-###
-
+- **Updated README.md** in [JKW301](https://github.com/JKW301/JKW301) on Nov 24, 2024.
+- **Pushed changes** to [Wallpapers](https://github.com/JKW301/Wallpapers) on Nov 24, 2024.
+- **Created** new repository [Docker-build](https://github.com/JKW301/Docker-build) on Nov 11, 2024.
