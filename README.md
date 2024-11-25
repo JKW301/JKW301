@@ -1,5 +1,9 @@
 <h2 align="left">Hi 👋! My name is JKW301</h2>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF004D&lines=How+I+love+segmentation+faults!!!&speed=20" alt="Typing SVG" />
+</div>
+
 # 📊 GitHub Stats: 
 
 <div align="center">
