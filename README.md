@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is JKW301</h2>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats: 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jkw301&theme=dark&hide_border=false&include_all_commits=false&count_private=false&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=000000" height="150" alt="GitHub Stats" />
