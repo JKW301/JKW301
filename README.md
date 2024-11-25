@@ -17,11 +17,12 @@
 </div>
 
 
-<!--
+  <!-- Snake for light mode -->
 <div align="center">
-  <img src="https://github.com/jkw301/jkw301/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+  <img src="https://github.com/jkw301/jkw301/blob/main/dist/ocean.gif" alt="GitHub Snake Animation" />
 </div>
--->
+
+
 
 <h2>💻 Tech Stack:</h2>
 <div align="left">
