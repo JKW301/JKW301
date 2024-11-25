@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jkw301&theme=dark&hide_border=false&include_all_commits=false&count_private=false&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=000000" height="150" alt="GitHub Stats" />
   <img height="150" src="https://media1.tenor.com/m/uqz_oXiz8usAAAAC/pedro-pascal.gif" style="margin-left: 20px; margin-right: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jkw301&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false&hide=hack,jupyter,javascript,html,css,scss,php,blade" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jkw301&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false&hide=hack,jupyter%20notebook,javascript,html,css,scss,php,blade" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
