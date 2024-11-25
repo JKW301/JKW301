@@ -15,6 +15,14 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jkw301&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </div>
+
+
+<!--
+<div align="center">
+  <img src="https://github.com/jkw301/jkw301/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</div>
+-->
+
 <h2>💻 Tech Stack:</h2>
 <div align="left">
 
