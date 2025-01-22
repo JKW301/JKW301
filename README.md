@@ -12,11 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jkw301&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false&hide=cmake,hack,makefile,pug,jupyter%20notebook,javascript,html,css,scss,php,blade" height="150" alt="languages graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jkw301&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-</div>
-
-
   <!-- Snake for light mode -->
 <div align="center">
   <img src="https://github.com/jkw301/jkw301/blob/main/dist/ocean.gif" alt="GitHub Snake Animation" />
